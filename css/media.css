@@ -58,6 +58,10 @@
     .case_card{
         text-align: center;
     }
+    footer{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
