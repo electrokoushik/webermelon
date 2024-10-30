@@ -1,0 +1,93 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .slogan{
+        font-size: 13px;
+    }
+    .btn_portfolio{
+        padding: 10px;
+    }
+    section{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+	#gallery img{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .s_btn{
+        margin-bottom: 30px;
+    }
+    .s_rating{
+        margin-bottom: 30px;
+    }
+    .s_card_1{
+        margin-bottom: 30px;
+    }
+    .project_card .btn_start_project{
+        margin-bottom: 30px;
+    }	
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    section{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+	#gallery img{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .s_btn{
+        margin-bottom: 30px;
+    }
+    .s_rating{
+        margin-bottom: 30px;
+    }
+    .s_card_1{
+        margin-bottom: 30px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){
+    section{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .case_card{
+        text-align: center;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px){
+    footer p{
+        margin-bottom: 8px;
+    }
+    .email p{
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .f_address p{
+        font-size: 15px;
+        
+    }
+    .f_links {
+        padding-right: 0;
+      }
+    .f_links p{
+        font-size: 15px;
+       margin-bottom: 8px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+	
+}
