@@ -25,7 +25,14 @@
     }
     .project_card .btn_start_project{
         margin-bottom: 30px;
-    }	
+    }
+    footer{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .email p{
+        font-size: 34px;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
